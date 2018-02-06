@@ -12,7 +12,7 @@ If you're MacOS or Linux user now you're able to install with pretty nice CLI in
 
 ### Requirements
 1. Docker
-2. Node.js (with npm package)
+2. Node.js >= v8.0.0 (with npm package)
 
 ### Installing
 You need to use https://github.com/DivanteLtd/vue-storefront.
